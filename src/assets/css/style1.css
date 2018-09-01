@@ -1,0 +1,68 @@
+.container-fluid
+{
+	background-color:orange;
+	color:white;
+	font-size:23px;
+	
+}
+.head
+{
+	margin-top:10px;
+}
+.header
+{
+	height:30px;
+}
+ 
+
+body
+{
+	background-color:orange;
+}
+.box
+{
+	background-color:orange;
+	width:200px;
+	height:160px;
+}
+hr
+{
+
+	height:30px;
+}
+li
+{
+	background-color:orange;
+}
+  
+li:hover
+{
+	 background-color: #FF8C00;
+	 color:white;
+ 
+}
+nav li a:hover
+{
+	 background-color: #FF8C00;
+
+ 
+}
+.menu h2
+{
+	font-size: 22px;
+}
+table
+{
+	padding:20px;
+
+}
+.active
+{
+	color:white;
+}
+.footer
+{
+	background-color:white;
+	text-align:center;
+	box-shadow:20px 20px 120px 16px  #FF8C00;  
+}
