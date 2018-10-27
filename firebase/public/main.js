@@ -147,7 +147,7 @@ var AppModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".container{\r\n    width:400px;\r\n    margin:0 auto;\r\n    margin-top:210px;\r\n}\r\n\r\n"
+module.exports = ".main{\r\n    padding-top:10px;\r\n    width:100%;\r\n    height:630px;\r\n    background: url('se4.png'); \r\n    position: relative;\r\n\r\n}\r\n.container{\r\n    width:400px;\r\n    margin-top:250px;\r\n}\r\n/* .container{\r\n    width:400px;\r\n    margin:160px auto;\r\n    margin-top:120px;\r\n    height: 325px;\r\n   \r\n}\r\n\r\n.input{\r\n    background-repeat: repeat;\r\n    position: absolute;\r\n    top:90px;\r\n    left:50px;\r\n    width:300px;\r\n    margin:0px auto;\r\n}\r\n#repeat { background-repeat: repeat; } */\r\n/* styling for the Pen */\r\nbody { font-family: sans-serif; }\r\ninput[type=text]{\r\n    border:1px solid black;\r\n}\r\n"
 
 /***/ }),
 
@@ -158,7 +158,7 @@ module.exports = ".container{\r\n    width:400px;\r\n    margin:0 auto;\r\n    m
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"main\">\n<h4 class=\"text-center\">FEDEX</h4>\n<div class=\"container\" style=\"background-image: url('../assets/img/se.png'); background-size: cover; background-position: top center;\">\n  <div class=\"row text-center\">\n    <div class=\"col-md-12 col-md-offset-2\">\n      <h5>FEDEX</h5>\n    </div>\n  </div>\n  <div class=\"row text-center\">\n    <div class=\"col-md-12\">\n      <input type=\"text\" class=\"form-control\" id=\"name\">\n    </div>\n  </div><br>\n  <div class=\"row text-center\">\n    <div class=\"col-md-12\">\n      <button class=\"btn btn-primary\">\n        Submit\n      </button>\n    </div>\n  </div>\n</div>\n</div>"
+module.exports = "<div class=\"main\">\n<h4 class=\"text-center\"></h4>\n<div class=\"container\">\n  <div class=\"input\">\n  <div class=\"row text-center\">\n    <div class=\"col-md-12 col-md-offset-2\">\n      <h5>FEDEX</h5>\n    </div>\n  </div>\n  <div class=\"row text-center\">\n    <div class=\"col-md-12\">\n      <input type=\"text\" class=\"form-control\" id=\"name\">\n    </div>\n  </div><br>\n  <div class=\"row text-center\">\n    <div class=\"col-md-12\">\n      <button class=\"btn btn-primary\">\n        Submit\n      </button>\n    </div>\n  </div>\n</div>\n\n\n</div>\n</div>\n"
 
 /***/ }),
 
